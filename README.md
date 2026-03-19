@@ -1,4 +1,5 @@
 # Hi there, I'm Daniel Ionescu 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Daniel-Ionescu10100&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ### 🚀 Software Engineering Student | Backend & Cloud Architecture | AI & Computer Vision
 
@@ -11,7 +12,6 @@ I am a 3rd-year Computer Science and Information Technology student at the **Tec
 - 🔗 **LinkedIn:** [Daniel Nicolae Ionescu](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -30,14 +30,23 @@ I am a 3rd-year Computer Science and Information Technology student at the **Tec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV / YOLO](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 **Databases & DevOps:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Dev Environment:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
 ### 🏆 Featured Projects
 
 #### 🛒 1. Cloud-Native E-Commerce Architecture
@@ -61,9 +70,14 @@ Hardware-software integration project for physical sensor metrics.
 * **Impact:** Developed the firmware and low-level logic to capture, filter, and stream real-world physical sensor data with ultra-low latency.
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Ionescu10100&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ionescu10100&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Ionescu10100&theme=radical" alt="GitHub Streak" />
+</p>
+
